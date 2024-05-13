@@ -11,4 +11,4 @@ Equivante SQL para CRUD - Comandos:
 - Delete: 'delete'   Exemplo. "delete from minhatabela where id = ?" -  Apaga o registro da tabela
 --------------------------------------------------------------------------------------------------
 Projeto utilizando o MySQL 
-Minha página disponível em: 
+Minha página disponível em: https://olivbryan.github.io/LojaBob/
